@@ -1,0 +1,14 @@
+html, body {
+    background-color: gold;
+    color: goldenrod;
+    padding:10px;
+  
+}
+
+#picture {
+  float: left;
+}
+
+#description {
+  float: right;
+}
